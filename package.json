@@ -1,6 +1,6 @@
 {
   "name": "pqrs-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Nikita Strygin @DCNick3",
   "bin": {
     "pqrs-cli": "./bin/run"
@@ -11,7 +11,7 @@
     "@oclif/config": "^1",
     "@oclif/plugin-help": "^3",
     "@types/sharp": "^0.28.6",
-    "pqrs-js": "^1.1.0",
+    "pqrs-js": "^1.1.1",
     "sharp": "^0.29.0",
     "stockfish.js": "^10.0.2",
     "tslib": "^1"

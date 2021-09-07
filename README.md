@@ -19,7 +19,7 @@ $ npm install -g pqrs-cli
 $ pqrs-cli COMMAND
 running command...
 $ pqrs-cli (-v|--version|version)
-pqrs-cli/1.0.0 linux-x64 node-v16.6.2
+pqrs-cli/1.0.1 linux-x64 node-v16.6.2
 $ pqrs-cli --help [COMMAND]
 USAGE
   $ pqrs-cli COMMAND
